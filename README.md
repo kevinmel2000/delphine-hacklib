@@ -22,7 +22,7 @@ Untuk dll yang sudah jadi, anda bisa lihat di [release page](https://github.com/
 
 Lalu save dengan file apa saja (misal OpenRO.bat) asalkan extensinya .bat dan disave ke folder RO
 
-5. Selamat menikmati Muti login tanpa harus pakai Sandboxie atau Virtual machine :)
+Selamat menikmati Muti login tanpa harus pakai Sandboxie atau Virtual machine :)
 
 ## Cara compile DLL ##
 * HackLibrary ini dibuat dengan Borland/Embarcadero Delphi.
