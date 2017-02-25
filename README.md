@@ -8,6 +8,9 @@
 ## Lisensi ##
 Delphine HackLibrary ini dilisensikan dengan lisensi GPLv2 yang Open Source. Anda boleh mengubah dan menggunakan kode ini secara bebas sesuai ketentuan lisensi dan segala perubahan harus anda publish source codenya.
 
+## Download ##
+Untuk dll yang sudah jadi, anda bisa lihat di [release page](https://github.com/farisss/delphine-hacklib/releases)
+
 ## Cara penggunaan dll hook ROMultiLogin ##
 
 1. Rename library Delphin "mfc90g.dll" yang ada di folder RO ke mfc90h.dll
@@ -18,6 +21,7 @@ Delphine HackLibrary ini dilisensikan dengan lisensi GPLv2 yang Open Source. And
 	start ragexe.exe 1rag1
 
 Lalu save dengan file apa saja (misal OpenRO.bat) asalkan extensinya .bat dan disave ke folder RO
+
 5. Selamat menikmati Muti login tanpa harus pakai Sandboxie atau Virtual machine :)
 
 ## Cara compile DLL ##
