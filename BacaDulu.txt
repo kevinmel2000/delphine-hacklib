@@ -1,0 +1,33 @@
+Fungsi:
+
+* Membypass multi-login sehingga bisa login lebih dari satu bahkan dua akun dalam satu komputer.
+* Hook berberapa fungsi Windows API untuk melakukan patch multi-login dan berberapa deteksi debugger (seperti IsDebuggerPresent)
+
+Cara penggunaan dll hook ROMultiLogin:
+
+1. rename library Delphin "mfc90g.dll" yang ada di folder RO ke mfc90h.dll
+2. Copy file mfc90g.dll dan ROHack.dll ke folder RO kamu
+3. Jalankan Client Launcher RO (Ragnarok.exe) lalu start, lakukan untuk login kedua dan berikutnya satu persatu (tidak bisa buka Ragnarok.exe sekaligus sebelum game distart).
+4. Atau... Jika kamu nggak mau buka lewat launcher RO, anda bisa membukanya langsung dengan membuat batch script ini di notepad:
+   
+start ragexe.exe 1rag1
+
+Lalu save dengan file apa saja (misal OpenRO.bat) asalkan extensinya .bat dan disave ke folder RO
+5. Selamat menikmati Muti login tanpa harus Sandboxie atau Virtual machine :)
+
+Analisa VirusTotal per tanggal (Untuk memastikan file ini aman)
+
+ROHack.dll
+https://virustotal.com/id/file/3472d3470238999acb984d428a8c711490b564034a9aa93cdffb5075bf9ad26e/analysis/1487956140/
+
+mfc90g.dll
+https://virustotal.com/id/file/62bfa2097ac38d14916c0eeaa44e6853e7c9b0383afdc3a35f68f721312031e0/analysis/1487956208/
+
+Note:
+Gw memastikan file ini aman dan gak gw isi dengan kode yg membahayakan, untuk analisa bisa dilihat pada url diatas.
+
+WARNING! Tolong digunakan dengan bijak!
+Dan tidak selamanya cara ini berhasil ;)
+
+Regards,
+Thiekus (a.k.a f4ri5s)
